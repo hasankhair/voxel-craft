@@ -1,5 +1,5 @@
 # Voxel Craft
-This is Voxel Craft game, inspired by Minecraft build with Claude. Build 3x!
+This is Voxel Craft game, inspired by Minecraft build with Claude. Build, build, build!
 #### Let's play: https://hasankhair.github.io/voxel-craft/index.html
 <br>
 <div align="center">

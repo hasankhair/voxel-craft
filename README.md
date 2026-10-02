@@ -8,3 +8,6 @@ This is Voxel Craft game, inspired by Minecraft build with Claude. Build 3x.
 <div align="center">
   <img src="images/2.png" alt="App Screenshot" width=80% height=80%>
 </div>
+<div align="center">
+  <img src="images/3.png" alt="App Screenshot" width=80% height=80%>
+</div>
